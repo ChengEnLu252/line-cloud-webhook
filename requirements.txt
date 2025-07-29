@@ -1,0 +1,4 @@
+Flask
+line-bot-sdk==3.*
+psycopg2-binary
+python-dotenv
